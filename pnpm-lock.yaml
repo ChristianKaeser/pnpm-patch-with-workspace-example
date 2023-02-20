@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+importers:
+
+  a:
+    specifiers:
+      '@low-key/vector-math': 1.0.4
+    dependencies:
+      '@low-key/vector-math': 1.0.4
+
+packages:
+
+  /@low-key/vector-math/1.0.4:
+    resolution: {integrity: sha512-mq5s8lVZypi5/Y/LFWq5zuVetzR0fmiaGCURTrVwzAIwf47OmeWFV/DbQe61rDOpvPqaMYQQxyo04rRF5WM4Hw==}
+    dev: false
