@@ -1,0 +1,13 @@
+{
+  "name": "a",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "@low-key/vector-math": "1.0.4"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "@low-key/vector-math@1.0.4": "patches/@low-key__vector-math@1.0.4.patch"
+    }
+  }
+}

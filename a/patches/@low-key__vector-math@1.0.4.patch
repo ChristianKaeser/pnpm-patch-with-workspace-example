@@ -1,0 +1,10 @@
+diff --git a/dist/index.mjs b/dist/index.mjs
+index 68e6e1db031a0d9474187799be4a1962be16f1fa..fb3d5a05a301e83e3db0e20172ee82b7ae57e922 100644
+--- a/dist/index.mjs
++++ b/dist/index.mjs
+@@ -1,4 +1,4 @@
+-import { Vector2 } from "index.js"
++import { Vector2 } from "./index.js"
+ 
+ export { Vector2 }
+ export default Vector2
